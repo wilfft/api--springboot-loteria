@@ -19,4 +19,9 @@ No texto, queremos que você:
   Explique as etapas do processo de construção do seu código e como faria a implementação do sistema na Web.
 
 **Item bônus:** Se ficou fácil, considere que você também precisa explicar como faria para proteger a aplicação de e-mails duplicados e sequências de números iguais para o mesmo email.
+--------------
+--------------
 
+OBS::
+
+Preciso alterar e remover algumas regras de negócio que ficaram no Controle e passar para o service.  
